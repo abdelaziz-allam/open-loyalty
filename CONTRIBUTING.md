@@ -1,4 +1,4 @@
-#How to Contribute
+# How to Contribute
 
 Already a PHP Developer? Familiar with Symfony, DDD, Event Sourcing and/or CQRS? Pick an issue, push a PR and instantly become a member of the Open Loyalty contributors community.
 
